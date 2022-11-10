@@ -40,7 +40,7 @@ npm run dev
 
 ### Lints and fixes files
 ```
-npm run lint BOB
+npm run lint
 ```
 
 You may make API calls to the server locally via `localhost:3001`.
