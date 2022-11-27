@@ -6,7 +6,7 @@ Support Local is THE one-stop shop for all things local. It compiles all local b
 
 Main App Link: https://supportlocal.netlify.app/
 
-Frontend Repository: https://github.com/xavierkoo/support-local-frontend
+Frontend Repository: https://github.com/WAD2-T05/support-local
 
 ## Backend Tech Stack 
 * Express
